@@ -1335,6 +1335,42 @@
       ]
     },
     {
+      "username": "dava2957",
+      "enabled": true,
+      "firstName": "Raphaël",
+      "lastName": "Bouchard",
+      "email": "dava2957@usherbrooke.ca",
+      "realmRoles": [
+        "etudiant",
+        "default-roles-master"
+      ],
+      "credentials": [
+        {
+          "temporary": true,
+          "type": "password",
+          "value": "projet"
+        }
+      ]
+    },
+    {
+      "username": "bowa2434",
+      "enabled": true,
+      "firstName": "Raphaël",
+      "lastName": "Bouchard",
+      "email": "bowa2434@usherbrooke.ca",
+      "realmRoles": [
+        "etudiant",
+        "default-roles-master"
+      ],
+      "credentials": [
+        {
+          "temporary": true,
+          "type": "password",
+          "value": "projet"
+        }
+      ]
+    },
+    {
       "username": "ploe1701",
       "enabled": true,
       "firstName": "Éric",
